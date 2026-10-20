@@ -1,1 +1,22 @@
 @import "tailwindcss";
+
+@theme {
+    --font-sans: "Quicksand", sans-serif;
+
+    --color-azul-escuro: #07152b;
+    --color-azul-jovi: #2563eb;
+    --color-azul-claro: #60a5fa;
+    --color-black: #050914;
+    --color-white: #f8fafc;
+    --color-grey: #aab4c4;
+    --color-card: #101c33;
+
+    --size-md: 1rem;
+    --size-lg: 4rem;
+    --size-xl: 2rem;
+    --size-2xl: 3rem;
+}
+
+html {
+    scroll-behavior: smooth;
+}

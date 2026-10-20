@@ -73,9 +73,9 @@ const concluidas = materias.filter((item) => item.concluida).length;
 const pendentes = total - concluidas;
 
 return (
-    <section id="estudos" className="estudos">
-        <h2>Organização de Estudos</h2>
-        <p>Organize suas matérias e acompanhe seus estudos.</p>
+    <section id="formulario" className="max-w-[800px]">
+        <h2 className="text-5xl mt-2.5 mb-3.5">Organização de Estudos</h2>
+        <p className="my-5">Organize suas matérias e acompanhe seus estudos.</p>
 
         <div className="formulario-estudos">
             <h3>Adicionar matéria</h3>
