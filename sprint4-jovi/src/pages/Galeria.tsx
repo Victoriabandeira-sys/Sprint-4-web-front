@@ -12,19 +12,19 @@ function Galeria() {
 
         <div className="grid grid-cols-3 gap-12">
             <div className="text-center">
-            <img src={modoEstudante} alt="Modo Estudante" className="w-1/2 h-[500px] rounded-[20px] mb-6 bg-black border border-white text-center transition-all duration-300 hover:-translate-y-[8px]" />
+            <img src={modoEstudante} alt="Modo Estudante" className="w-1/2 h-[500px] rounded-[20px] mb-6 mx-auto bg-black border border-white text-center transition-all duration-300 hover:-translate-y-[8px]" />
             <h3 className="text-xl mb-3 text-azul-jovi font-bold">Modo Estudante</h3>
             <p className="text-[18px] leading-6 text-white">Organize seus conteúdos acadêmicos.</p>
             </div>
 
             <div className="text-center">
-            <img src={scanner} alt="Scanner Inteligente" className="w-1/2 h-[500px] rounded-[20px] mb-6 bg-black border border-white text-center transition-all duration-300 hover:-translate-y-[8px]" />
+            <img src={scanner} alt="Scanner Inteligente" className="w-1/2 h-[500px] rounded-[20px] mb-6 mx-auto bg-black border border-white text-center transition-all duration-300 hover:-translate-y-[8px]" />
             <h3 className="text-xl mb-3 text-azul-jovi font-bold">Scanner Inteligente</h3>
             <p className="text-[18px] leading-6 text-white">Digitalize documentos e anotações.</p>
             </div>
 
             <div className="text-center">
-            <img src={resumoInteligente} alt="Resumo Inteligente" className="w-1/2 h-[500px] rounded-[20px] mb-6 bg-black border border-white text-center transition-all duration-300 hover:-translate-y-[8px]"/>
+            <img src={resumoInteligente} alt="Resumo Inteligente" className="w-1/2 h-[500px] rounded-[20px] mb-6 mx-auto bg-black border border-white text-center transition-all duration-300 hover:-translate-y-[8px]"/>
             <h3 className="text-xl mb-3 text-azul-jovi font-bold">Resumo Inteligente</h3>
             <p className="text-[18px] leading-6 text-white">Transforme imagens em materiais de revisão.</p>
             </div>

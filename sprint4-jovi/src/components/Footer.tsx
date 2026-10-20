@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <>
-        <div className="flex justify-center items-center py-2.5 px-[50]">
+        <div className="flex justify-center items-center py-2.5 px-[50] bg-azul-escuro">
                 <a href="#inicio" className="rounded-[80px] transition duration-500 no-underline font-bold text-white bg-azul-escuro px-16 py-4 border-2 border-azul-escuro hover:bg-transparent hover:text-azul-escuro">Voltar ao início</a>
             </div>
         
