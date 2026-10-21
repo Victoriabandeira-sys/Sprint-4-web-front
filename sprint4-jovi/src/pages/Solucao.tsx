@@ -3,7 +3,7 @@ function Solucao() {
         <section id="solucao" className="py-[100px] px-[10%] bg-black">
         <div className="mb-[50px] text-center">
             <h2 className="text-5xl font-bold text-white text-center">Conheça a solução</h2>
-            <p className="text-white text-center p-[15px]">A JOVI transforma a câmera do celular em uma ferramenta mais inteligente e prática para os estudantes.</p>
+            <p className="text-white text-center p-[15px]">Com a nossa solução, transformamos a câmera do celular em uma ferramenta mais inteligente e prática para os estudantes.</p>
         </div>
 
         <div className="grid grid-cols-3 gap-5">

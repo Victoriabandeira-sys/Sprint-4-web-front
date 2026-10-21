@@ -6,7 +6,7 @@ import victoria from "../image/victoria.jpg";
 
 function Equipe() {
     return (
-        <section id="equipe" className="py-[100px] px-[10%] bg-azul-escuro">
+        <section id="equipe" className="py-[100px] px-[10%] bg-black">
         <h2 className="text-center font-bold text-5xl text-white p-5">Conheça nossa equipe</h2>
 
         <div className="grid grid-cols-3 gap-7">
