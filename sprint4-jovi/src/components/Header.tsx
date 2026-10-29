@@ -10,7 +10,6 @@ function Header() {
             <li><a href="#galeria" className="text-white no-underline transition-colors duration-300" >Galeria</a></li>
             <li><a href="#formulario" className="text-white no-underline transition-colors duration-300" >Formulário</a></li>
             <li><a href="#equipe" className="text-white no-underline transition-colors duration-300" >Nossa equipe</a></li>
-            <li><a href="#contato" className="text-white no-underline transition-colors duration-300" >Contato</a></li>
         </nav>
     </header>
     );
