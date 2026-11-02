@@ -1,5 +1,6 @@
 
 import { useState, useEffect, type FormEvent } from "react";
+import BuscaLivros from "../components/BuscaLivros";
 
 type Materia = {
     id: number;
@@ -73,7 +74,7 @@ const concluidas = materias.filter((item) => item.concluida).length;
 const pendentes = total - concluidas;
 
 return (
-    <section id="formulario" className="bg-black w-full max-w-4xl mx-auto px-6 py-12 text-white">
+    <section id="formulario" className="bg-black w-full min-h-screen px-6 py-12 text-white">
         <h2 className="text-4xl md:text-5xl font-bold text-center tracking-tight text-white mb-3">Organização de Estudos</h2>
         <p className="text-slate-400 text-center text-lg mb-8">Organize suas matérias e acompanhe seus estudos.</p>
 
@@ -185,6 +186,7 @@ return (
                     ))}
                 </div>
             </div>
+            <BuscaLivros />
         </section>
     );
 }
