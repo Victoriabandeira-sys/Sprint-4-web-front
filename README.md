@@ -42,6 +42,22 @@ npm run dev
 
 Após o comando rodar com sucesso, digite a letra "o" para abrir no servidor local.
 
+## Back-end 
+
+Nosso projeto não possui servidor back-end próprio. A consulta de livros utilizada no nosso projeto é realizada por meio da Open Library API, utilizando Axios. 
+
+## Utilização de inteligência artificial
+
+A IA foi utilizada como apoio na implementação da lógica de login, organização e persistência dos dados, integração da API de livros e identificação e correção de erros durante o desenvolvimento do projeto.
+
+## Usuário e senha para autenticação (Credenciais)
+
+```
+Usuário: Jovi.2026@fiap
+````
+```
+Senha: 123456
+```
 
 ## Link do Deploy (Vercel)
 
