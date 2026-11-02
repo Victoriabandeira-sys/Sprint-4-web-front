@@ -63,4 +63,4 @@ Senha: 123456
 
 A aplicação foi publicada no link abaixo:
 
-**[Clique aqui para acessar o Deploy na Vercel](https://vercel.app)**  
+**[Clique aqui para acessar o Deploy na Vercel](https://jovi-nextcode-sprint4.vercel.app/)**  
